@@ -1,0 +1,12 @@
+version: "Apple Swift version 2.2 (swiftlang-703.0.18.8 clang-703.0.31)"
+options: "3e1ad9bd7819920ab0ede333dcb3b30f"
+build_time: [524768537, 331984000]
+inputs:
+  "/Users/jon_thornburg/Desktop/FireChat/FireChat/NewMessagesController.swift": [524689956, 0]
+  "/Users/jon_thornburg/Desktop/FireChat/FireChat/MessagesController.swift": [524760744, 0]
+  "/Users/jon_thornburg/Desktop/FireChat/FireChat/LoginController.swift": [524768123, 0]
+  "/Users/jon_thornburg/Desktop/FireChat/FireChat/LoginController + handlers.swift": [524764382, 0]
+  "/Users/jon_thornburg/Desktop/FireChat/FireChat/FirebaseCalls.swift": [524760225, 0]
+  "/Users/jon_thornburg/Desktop/FireChat/FireChat/UIImage + extensions.swift": [524697161, 0]
+  "/Users/jon_thornburg/Desktop/FireChat/FireChat/User.swift": [524766433, 0]
+  "/Users/jon_thornburg/Desktop/FireChat/FireChat/AppDelegate.swift": [524757136, 0]

@@ -1,0 +1,1 @@
+ const unsigned char Pods_FireChatVersionString[] __attribute__ ((used)) = "@(#)PROGRAM:Pods_FireChat  PROJECT:Pods-1" "\n"; const double Pods_FireChatVersionNumber __attribute__ ((used)) = (double)1.;

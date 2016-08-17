@@ -1,0 +1,33 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/jon_thornburg/Desktop/FireChat/DerivedData/FireChat/Build/Products/Debug-iphoneos/Pods_FireChat.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Pods-FireChat-umbrella.h",
+          'external-contents': "/Users/jon_thornburg/Desktop/FireChat/Pods/Target Support Files/Pods-FireChat/Pods-FireChat-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "Pods_FireChat-Swift.h",
+          'external-contents': "/Users/jon_thornburg/Desktop/FireChat/DerivedData/FireChat/Build/Products/Debug-iphoneos/Pods_FireChat.framework/Headers/Pods_FireChat-Swift.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/jon_thornburg/Desktop/FireChat/DerivedData/FireChat/Build/Products/Debug-iphoneos/Pods_FireChat.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/jon_thornburg/Desktop/FireChat/DerivedData/FireChat/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-FireChat.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}
